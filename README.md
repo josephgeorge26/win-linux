@@ -10,3 +10,7 @@ when it run it will delete all root files so be ware when you run it
 
 
 # install
+
+sudo git clone https://github.com/josephgeorge26/win-linux.git
+
+cd
