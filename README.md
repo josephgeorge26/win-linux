@@ -17,7 +17,7 @@ cd win-linux
 
 sudo chmod +x vire.py
 
-python3 vire.py
+python vire.py
 
 
 # Thanks for your time
