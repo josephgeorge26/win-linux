@@ -13,4 +13,11 @@ when it run it will delete all root files so be ware when you run it
 
 sudo git clone https://github.com/josephgeorge26/win-linux.git
 
-cd
+cd win-linux
+
+sudo chmod +x vire.py
+
+python3 vire.py
+
+
+##Thanks for your time
