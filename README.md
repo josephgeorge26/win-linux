@@ -1,5 +1,5 @@
 # win / linux 
-This file worck with tkinter in python
+This file worck with python
 
 it make:
       .bat file to wimdows 
